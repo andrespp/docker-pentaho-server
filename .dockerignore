@@ -1,1 +1,5 @@
+.git/
 data/
+docker-compose.yml
+.gitignore
+README.md
